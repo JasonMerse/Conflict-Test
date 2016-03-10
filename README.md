@@ -8,7 +8,7 @@ First we need to create a scenario that might happen to you:
 
 1. Clone this repository
 2. Initialize Git-Flow
-3. You should now be in the `develop` branch.
+3. You shoud now be in the `develop` branch.
 4. Create a new feature-branch `my-changes`
 
 In this scenario, you've checked out the repository and want to create a new feature while other people might commit something to the `develop` branch.
